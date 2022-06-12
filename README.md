@@ -24,7 +24,7 @@ $ cargo run
     
 ## Screenshots
 
-![App Screenshot](https://github.com/uDust/imgs/app.png)
+![App Screenshot](https://github.com/uDust/rust-ip-tracker/blob/master/imgs/app.png)
 
 como ven solo da el json de la api ya que todavia no acabo
 
