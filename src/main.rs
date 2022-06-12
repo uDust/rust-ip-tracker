@@ -46,7 +46,7 @@ async fn main() {
         .unwrap();
     
     //print info 
-    println!("\n\n\n\n-----------------------------------------");
+    println!("\n\n-----------------------------------------");
     println!("target: {:#?}", info.query);
     println!("country: {:#?}", info.country);
     println!("country code: {:#?}", info.countryCode);
