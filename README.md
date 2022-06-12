@@ -1,8 +1,7 @@
 
 # Rust IP tracker
 
-por el momento esto es un trabajo en progreso
-el output solamente es un json que contiene la info de la ip
+trackea una ip 
 
 
 ## Como se instala?
